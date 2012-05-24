@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>No Name</title>
+	<link href="http://mytharcher.github.com/atom.xml" rel="self" />
+	<link href="http://mytharcher.github.com/" />
+	<updated>2012-05-25T03:22:23+08:00</updated>
+	<id>http://mytharcher.github.com/</id>
+	<author>
+		<name>echolihao</name>
+		<email>bugbubble.lihao@gmail.com</email>
+	</author>
+	
+</feed>
