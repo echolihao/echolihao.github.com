@@ -17,6 +17,7 @@ category: thinking
 * 这是列表
 * 这是列表
 
+以下是一段`code`:
     $ git add <file-name>
 
 Over.
