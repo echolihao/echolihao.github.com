@@ -10,14 +10,15 @@ category: thinking
 
 ### 标题3
  
-测试中文能够正常显示以及试用Markdown语法。
+测试中文能够正常显示以及试用[Markdown][1]语法。
 
 * 这是列表
 * 这是列表
 * 这是列表
 * 这是列表
 
-  $ git add <file-name>
+    $ git add <file-name>
 
 Over.
- 
+
+[1]: http://markdown.com
