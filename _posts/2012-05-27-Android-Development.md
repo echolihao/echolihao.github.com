@@ -12,7 +12,7 @@ adb means android debug bridge -- it's the app that lets your computer talk to p
 
 # 开发过程中遇到的问题
 1. install ADT，设置好SDK的路径之后，出现错误：
-     [2012-05-26 02:06:42 - DDMS] DDMS files not found: /home/haoli/Programs/android-sdk-linux/platform-tools/adb
+        [2012-05-26 02:06:42 - DDMS] DDMS files not found: /home/haoli/Programs/android-sdk-linux/platform-tools/adb
 
 2. After "Step 4. Adding Platforms and Other Packages", 出现错误：
     [2012-05-26 02:12:05 - SDK Manager] Failed to fetch URL http://dl.htcdev.com/sdk/addon.xml, reason: peer not authenticated
