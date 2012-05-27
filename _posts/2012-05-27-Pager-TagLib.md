@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pager TagLib
-category: knowlegde
+category: knowledge
 tags: pager, j2ee, lib
 ---
 
