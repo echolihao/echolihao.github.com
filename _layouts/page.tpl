@@ -56,7 +56,7 @@
 	</div>
 	
 	<div class="block block-thank">
-		<h3>Power by</h3>
+		<h3>Powered By</h3>
 		<p>
 			<a href="http://disqus.com/" target="_blank" title="云评论服务">Disqus</a>,
 			<a href="http://github.com/" target="_blank">GitHub</a>,
@@ -66,6 +66,13 @@
 			<a href="http://github.com/mojombo/jekyll" target="_blank">jekyll</a>
 		</p>
 	</div>
+
+	<div class="block block-thank">
+    <h3>Forked From</h3>
+    <p>
+      <a href="http://mytharcher.github.com/" target="_blank" title="">闭门造轮子</a>
+    </p>
+  </div>
 </side>
 
 <script src="http://elfjs.googlecode.com/files/elf-0.3.3-min.js"></script>
