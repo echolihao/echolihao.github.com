@@ -50,11 +50,18 @@
 		<h3>版权申明</h3>
 		<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/" target="_blank" class="hide-target-icon" title="本站(博客)作品全部采用知识共享署名-非商业性使用-禁止演绎 2.5 中国大陆许可协议进行许可。转载请通知作者并注明出处。"><img alt="知识共享许可协议" src="http://i.creativecommons.org/l/by-nc-nd/2.5/cn/88x31.png" /></a></p>
 	</div>
-	
+  <!--	
 	<div class="block block-fork">
 		<a href="http://github.com/echolihao" class="hide-target-icon"><img src="https://a248.e.akamai.net/assets.github.com/img/30f550e0d38ceb6ef5b81500c64d970b7fb0f028/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub"></a>
 	</div>
-	
+ -->	
+	<div class="block block-thank">
+    <h3>Forked From</h3>
+    <p>
+      <a href="http://mytharcher.github.com/" target="_blank" title="">闭门造轮子</a>
+    </p>
+  </div>
+
 	<div class="block block-thank">
 		<h3>Powered By</h3>
 		<p>
@@ -67,12 +74,6 @@
 		</p>
 	</div>
 
-	<div class="block block-thank">
-    <h3>Forked From</h3>
-    <p>
-      <a href="http://mytharcher.github.com/" target="_blank" title="">闭门造轮子</a>
-    </p>
-  </div>
 </side>
 
 <script src="http://elfjs.googlecode.com/files/elf-0.3.3-min.js"></script>
