@@ -37,7 +37,7 @@ adb means android debug bridge -- it's the app that lets your computer talk to p
         [2012-05-27 20:48:47 - Emulator] NAND: could not write file /home/haoli/.android/avd/my_avd.avd/userdata-qemu.img, No such file or directory
 实际上userdata-qemu.img这个file是存在的！！
 
-7.run，出现模拟器的界面，运行成功。但是加载HelloAndroid.apk失败，错误：
+7. run，出现模拟器的界面，运行成功。但是加载HelloAndroid.apk失败，错误：
         [2012-05-27 21:12:35 - HelloAndroid] Failed to install HelloAndroid.apk on device 'emulator-5554': device not found
 再次run（什么都没做），success！
 
