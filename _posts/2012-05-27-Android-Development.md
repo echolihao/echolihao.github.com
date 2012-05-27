@@ -44,5 +44,8 @@ run，出现模拟器的界面，运行成功。但是加载HelloAndroid.apk失�
 # 相关资料
 
 [Android Application Development: Hands-On](http://www.cse.ust.hk/~muppala/aad/index.html)
+
 [Install Android SDK](http://developer.android.com/sdk/installing.html)
+
 [Hello, Android - First Android Project](http://developer.android.com/resources/tutorials/hello-world.html)
+
