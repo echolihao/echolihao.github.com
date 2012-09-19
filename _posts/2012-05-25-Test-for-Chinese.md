@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一篇博文 
+title: jekyll测试 
 category: thinking
 ---
 
