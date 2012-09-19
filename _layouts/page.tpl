@@ -4,8 +4,8 @@
 <meta charset="utf-8" />
 <meta name="author" content="echolihao" />
 <meta name="keywords" content="{{ page.tags | join: ',' }}" />
-<title>No Name{% if page.title %} / {{ page.title }}{% endif %}</title>
-<link href="http://echolihao.github.com/feed.xml" rel="alternate" title="No Name" type="application/atom+xml" />
+<title>echolihao的博客{% if page.title %} / {{ page.title }}{% endif %}</title>
+<link href="http://echolihao.github.com/feed.xml" rel="alternate" title="echolihao的博客" type="application/atom+xml" />
 <link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
 <link rel="stylesheet" type="text/css" href="/assets/css/code/github.css" />
 {% for style in page.styles %}<link rel="stylesheet" type="text/css" href="{{ style }}" />
@@ -23,7 +23,7 @@
 </div>
 
 <side>
-	<h2><a href="/">No Name</a><a href="/feed.xml" class="feed-link" title="RSS订阅"><img src="http://blog.rexsong.com/wp-content/themes/rexsong/icon_feed.gif" alt="RSS feed" /></a></h2>
+	<h2><a href="/">echolihao的博客</a><a href="/feed.xml" class="feed-link" title="RSS订阅"><img src="http://blog.rexsong.com/wp-content/themes/rexsong/icon_feed.gif" alt="RSS feed" /></a></h2>
 	
 	<nav class="block">
 		<ul>
