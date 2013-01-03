@@ -9,18 +9,22 @@ host: echolihao.github.com
 
 custom:
     category:
-        thinking: 闭门思考
+        thinking: 胡思乱想 
         problems: 问题记录
         knowledge: 知识经验
+        life: 生活
     categories:
       - name:  thinking
-        title: 闭门思考
+        title: 胡思乱想
 
       - name:  problems
         title: 问题记录
 
       - name:  knowledge
         title: 知识经验
+ 
+      - name: life
+        title: 生活
 
 meta:
     authors:
