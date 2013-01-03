@@ -1,7 +1,7 @@
 ---
 layout: post
 title: grub启动项设置
-category: thinking
+category: knowledge
 tags: grub, Linux, 启动项  
 ---
 

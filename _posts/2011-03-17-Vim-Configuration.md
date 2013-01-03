@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 配置vim
-category: thinking
+category: knowledge
 tags: Linux, vim 
 ---
 

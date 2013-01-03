@@ -1,7 +1,7 @@
 ---
 layout: post
 title: jekyll测试 
-category: thinking
+category: knowledge
 ---
 
 # 标题1

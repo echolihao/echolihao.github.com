@@ -12,6 +12,7 @@ custom:
         thinking: 胡思乱想 
         problems: 问题记录
         knowledge: 知识经验
+        notes: 杂记
         life: 生活
     categories:
       - name:  thinking
@@ -23,6 +24,9 @@ custom:
       - name:  knowledge
         title: 知识经验
  
+      - name: notes 
+        title: 杂记
+
       - name: life
         title: 生活
 

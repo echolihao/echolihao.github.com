@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSDN TUP MASTERS——微软技术大师Jeffrey Richter
-category: thinking
+category: notes
 tags: .NET 4.0, Jeffrey, TUP, 微软, 程序员, 金旭亮老师 
 ---
 

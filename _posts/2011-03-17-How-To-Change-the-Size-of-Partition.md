@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何更改分区大小
-category: thinking
+category: knowledge
 tags: GParted, Linux, 分区大小 
 ---
 
